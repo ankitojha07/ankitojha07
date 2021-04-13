@@ -12,7 +12,7 @@ Hello there, My name is Ankit :eyeglasses: . I'm tireless seeker of knowledge.
 *  :point_right:  <a href="https://twitter.com/ankit_ojha07">Twitter</a>    
 *  :point_right:  <a href="https://www.instagram.com/codeforcoffee.in/" >Instagram</a>
   <!--:point_right:  <a href="https://stackoverflow.com/users/10554702/ritik-kumar/" >StackOverflow</a> -->
-*  :octocat:  <a href="https://github.com/ankitojha07">GitHub</a>
+ :octocat:  <a href="https://github.com/ankitojha07">GitHub</a>
 
 <!--
 **ankitojha07/ankitojha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
