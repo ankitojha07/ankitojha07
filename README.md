@@ -31,10 +31,11 @@ About me :
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: Life would be much easier if I had the source code.
 
+
 😂 Joke :
 -    A: Make me a sandwich.
 -    B: Fuck off.
 -    A: Sudo make me a sandwich
 -    B: With cheese or without cheese?
 
-(why you are not laughing) 😏
+  (why you are not laughing) 😏
