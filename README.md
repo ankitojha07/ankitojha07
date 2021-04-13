@@ -29,5 +29,5 @@ About me :
 - 💬 Ask me about Android Studio
 - 📫 How to reach me: ankitojha9648@gmail.com
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: The majority of high schools don’t teach computer science.
+- ⚡ Fun fact: Life would be much easier if I had the source code.
 
