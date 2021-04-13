@@ -3,7 +3,7 @@
 
 
 
-Hello there, My name is Ankit :eyeglasses: . I'm tireless seeker of knowledge.
+Hello there, :eyeglasses:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ankitojha07&theme=tokyonight&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&layout=compact&theme=tokyonight)
 
