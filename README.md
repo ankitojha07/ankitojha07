@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 About me :
 
-- 🔭 I’m currently working on Cybersecurity and Ethical Hacking
+- 🔭 I’m currently working on different technologies to get some interest
 - 🌱 I’m currently learning Python Programming
 - 👯 Interested in Android app development and Cybersecurity
 - 🤔 I’m looking for help with Cloud technologies
