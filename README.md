@@ -10,7 +10,7 @@ Hello there, :eyeglasses:
 ## :mailbox: Get in touch
 *  :point_right:  <a href="https://www.linkedin.com/in/ankitojha07/">linkedin </a> 
 *  :point_right:  <a href="https://twitter.com/ankit_ojha07">Twitter</a>    
-*  :point_right:  <a href="https://www.instagram.com/codeforcoffee.in/" >Instagram</a>
+*  :point_right:  <a href="https://www.instagram.com/i.m.ankitojha/" >Instagram</a>
   <!--:point_right:  <a href="https://stackoverflow.com/users/10554702/ritik-kumar/" >StackOverflow</a> -->
  :octocat:  <a href="https://github.com/ankitojha07">GitHub</a>
 
@@ -24,8 +24,8 @@ About me :
 
 - 🔭 I’m currently working on Cybersecurity and Ethical Hacking
 - 🌱 I’m currently learning Python Programming
-- 👯 Interested in Cybersecurity and Ethical Hacking
-- 🤔 I’m looking for help with Penetration Testing
+- 👯 Interested in Android app development and Cybersecurity
+- 🤔 I’m looking for help with Cloud technologies
 - 📫 How to reach me: ankitojha9648@gmail.com
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: Life would be much easier if I had the source code.
