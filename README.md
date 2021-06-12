@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 
 About me :
 
-- 🔭 I’m currently working on Android App Development and UI Designing
+- 🔭 I’m currently working on Cybersecurity and Ethical Hacking
 - 🌱 I’m currently learning Python Programming
-- 👯 I’m looking to collaborate on Android development projects
-- 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about Android Studio
+- 👯 Interested in Cybersecurity and Ethical Hacking
+- 🤔 I’m looking for help with Penetration Testing
 - 📫 How to reach me: ankitojha9648@gmail.com
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: Life would be much easier if I had the source code.
