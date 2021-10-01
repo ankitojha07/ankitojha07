@@ -1,30 +1,41 @@
+#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankitojha07) !!
 
-### Hi, I'm Ankit :technologist:
+<a href="https://www.linkedin.com/in/ankitojha07">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+ </a> 
+<a href="mailto:ankitojha1409@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
+</a>
+<a href="https://twitter.com/ankitojha07">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
+</a>
+<a href="https://...medium.com/">
+  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
+</a>
+<br> <br>
 
+🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Open-Source💙 <br />
+✨ I'm passionate about Docker🐋, Kubernetes🎡, and learning new things!
 
+## 🚀 Technologies 
 
-Hello there, :eyeglasses:
+### Languages⚡
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=java&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ankitojha07&theme=tokyonight&count_private=true&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&layout=compact&theme=tokyonight)
+### DevOps💙 
+<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> 
 
-## :mailbox: Get in touch
-*  :point_right:  <a href="https://www.linkedin.com/in/ankitojha07/">linkedin </a> 
-*  :point_right:  <a href="https://twitter.com/ankit_ojha07">Twitter</a>    
-*  :point_right:  <a href="https://www.instagram.com/ankit_ojha07/" >Instagram</a>
-  <!--:point_right:  <a href="https://stackoverflow.com/users/10554702/ritik-kumar/" >StackOverflow</a> -->
- :octocat:  <a href="https://github.com/ankitojha07">GitHub</a>
+### Cloud ☁
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
 
-<!--
-**ankitojha07/ankitojha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Global Certification 🎓
 
-Here are some ideas to get you started:
--->
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"    /> <b>[RedHat Certified Specialist in Ansible Automation](https://rhtapps.redhat.com/verify?certId=210-076-055) </b> <br>
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"    /> <b>[RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055) </b>
 
-About me :
-
-- 🔭 I’m currently working on front-end web development
-- 🌱 I’m currently learning Python Programming for backend (django)
-- 👯 Interested in web development and data science
-- 📫 How to reach me: ankitojha9648@gmail.com
-- 😄 Pronouns: He, Him
-- ⚡ Fun fact: Life would be much easier if I had the source code.
+## 📈 Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&theme=highcontrast" />
+</p>
