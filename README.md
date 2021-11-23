@@ -39,7 +39,10 @@
 
 ### Competitive Coding💙 
 
-https://cp-logo.vercel.app/codechef/ankitojha07
+<!-- https://cp-logo.vercel.app/codechef/ankitojha07 -->
+[![Badge](https://cp-logo.vercel.app/codechef/ankitojha07)]
+(https://www.codechef.com/users/ankitojha07)
+
 
 Exploring
 <!-- <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> -->
