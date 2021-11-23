@@ -40,8 +40,8 @@
 ### Competitive Coding💙 
 
 <!-- https://cp-logo.vercel.app/codechef/ankitojha07 -->
-[![Badge](https://cp-logo.vercel.app/codechef/ankitojha07)]
-(https://www.codechef.com/users/ankitojha07)
+![Badge](https://cp-logo.vercel.app/codechef/ankitojha07)
+
 
 
 Exploring
