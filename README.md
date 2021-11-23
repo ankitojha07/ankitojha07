@@ -1,5 +1,8 @@
 #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankitojha07) !!
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=ankitojha07.ankitojha07)
+[![Github](https://img.shields.io/github/followers/ankitojha07?label=Follow&style=social)](https://github.com/ankitojha7)
+
 <a href="https://www.linkedin.com/in/ankitojha07">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
