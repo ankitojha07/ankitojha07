@@ -17,8 +17,9 @@
 </a> -->
 <br> <br>
 
-🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Open-Source💙 <br />
-✨ I'm passionate about Docker🐋, Kubernetes🎡, and learning new things!
+🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Competitive Coding💙 <br />
+✨ I'm passionate about Competitive Coding, Web-Development, AWS Cloud and learning new things! <br/>
+✨ 2* Coder at Codechef & 5* at Hackerrank!
 
 ## 🚀 Technologies 
 
@@ -27,7 +28,7 @@
 
 
 
-### DevOps💙 
+### Competitive Coding💙 
 Exploring
 <!-- <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" />  -->
