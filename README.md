@@ -33,6 +33,8 @@
 
 ✨ 2* Coder at Codechef & 5* at Hackerrank! <br />
 
+<br/>
+
 ## 🚀 Technologies 
 
 ### Languages⚡
