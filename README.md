@@ -86,8 +86,9 @@ Exploring
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&show_icons=true&theme=highcontrast" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&theme=highcontrast" />
 </p>
-<br/>
-## My Contribution Graph
+
+
+My Contribution Graph
 <img width="48%" src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=xcode" />
 <!-- ![](https://activity-graph.herokuapp.com/graph?username=Atul-Kumar-Official&theme=xcode) -->
 
