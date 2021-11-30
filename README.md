@@ -87,8 +87,8 @@ Exploring
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&theme=highcontrast" />
 </p>
 
+## My Top Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&theme=dark" />
 
 ## My Contribution Graph
-<img width="48%" src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=xcode" />
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=Atul-Kumar-Official&theme=xcode) -->
-
+<img src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=xcode" />
