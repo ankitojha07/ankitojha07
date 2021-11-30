@@ -88,5 +88,6 @@ Exploring
 </p>
 <br/>
 ## My Contribution Graph
-![](https://activity-graph.herokuapp.com/graph?username=Atul-Kumar-Official&theme=xcode)
+<img width="48%" src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=xcode" />
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=Atul-Kumar-Official&theme=xcode) -->
 
