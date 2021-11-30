@@ -25,13 +25,13 @@
 
 🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Competitive Coding💙 <br />
 
-✨ I'm passionate about Competitive Coding, Web-Development, AWS Cloud and learning new things! <br/>
+✨ I'm passionate about Competitive Coding, Web-Development, AWS Cloud! <br/>
 
 🌱 I’m currently learning Data Structures & Algorithms  <br />
 
 👯 I’m looking to collaborate on Open Source Projects <br />
 
-✨ 2* Coder at Codechef & 5* at Hackerrank! <br />
+✨ Always learning new things <br />
 
 <br/>
 
