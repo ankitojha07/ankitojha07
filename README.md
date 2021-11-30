@@ -88,7 +88,7 @@ Exploring
 	<br/>
 	
 <img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&theme=dark" />
-<img width="70%" src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=xcode" />	
+<img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=xcode" />	
 </p>
 
 
