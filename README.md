@@ -33,6 +33,8 @@
 
 ✨ Always learning new things <br />
 
+😄 Pronouns: He/Him
+
 <br/>
 
 ## 🚀 Technologies 
@@ -85,4 +87,6 @@ Exploring
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&theme=highcontrast" />
 </p>
 <br/>
+## My Contribution Graph
+![](https://activity-graph.herokuapp.com/graph?username=Atul-Kumar-Official&theme=xcode)
 
