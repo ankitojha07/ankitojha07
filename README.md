@@ -23,16 +23,16 @@
 </a> -->
 <br> <br>
 
-<!-- 🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Competitive Coding💙 <br />
+🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
 
 ✨ I'm passionate about Competitive Coding, Web-Development, AWS Cloud! <br/>
 
-🌱 I’m currently learning Data Structures & Algorithms  <br />
+🌱 I’m currently learning Full Stack Development : MERN  <br />
 
 👯 I’m looking to collaborate on Open Source Projects <br />
 
-✨ Always learning new things <br />
- -->
+✨ Always learning! <br />
+
 😄 Pronouns: He/Him
 
 <br/>
