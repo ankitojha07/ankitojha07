@@ -1,21 +1,21 @@
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankitojha07) !!
+#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankittojha) !!
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ankitojha07.ankitojha07)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=ankittojha.ankittojha)
 [![Github](https://img.shields.io/github/followers/ankitojha07?label=Follow&style=social)](https://github.com/ankitojha7)
 
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
-<a href="https://www.linkedin.com/in/ankitojha07">
+<a href="https://www.linkedin.com/in/ankittojha">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
 <a href="mailto:ankitojha1409@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://twitter.com/ankit_ojha07">
+<a href="https://twitter.com/ankittojha">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
-<a href="https://instagram.com/ankit_ojha07">
+<a href="https://instagram.com/ankittojha">
   <img src="https://img.shields.io/badge/Instagram-EC7063?style=for-the-badge&logo=instagram&logoColor=white"   />
 </a>
 <!-- <a href="https://...medium.com/">
@@ -46,8 +46,8 @@
 
 ### Competitive Coding💙 
 
-<!-- https://cp-logo.vercel.app/codechef/ankitojha07 -->
-![Badge](https://cp-logo.vercel.app/codechef/ankitojha07)
+<!-- https://cp-logo.vercel.app/codechef/ankittojha -->
+![Badge](https://cp-logo.vercel.app/codechef/ankittojha)
 
 
 
@@ -84,12 +84,12 @@
 
 ## 📈 Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&show_icons=true&theme=highcontrast" />
-	 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&theme=highcontrast" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankittojha&show_icons=true&theme=highcontrast" />
+	 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankittojha&theme=highcontrast" />
 	<br/>
 	
-<img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&theme=dark" />
-<img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=xcode" />	
+<img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittojha&theme=dark" />
+<img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=ankittojha&theme=xcode" />	
 </p>
 
 
