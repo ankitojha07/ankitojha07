@@ -47,7 +47,7 @@
 ### Competitive Coding💙 
 
 <!-- https://cp-logo.vercel.app/codechef/ankittojha -->
-![Badge](https://cp-logo.vercel.app/codechef/ankittojha)
+![Badge](https://cp-logo.vercel.app/codechef/ankitojha07)
 
 
 
