@@ -25,11 +25,11 @@
 
 🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
 
-✨ I'm passionate about Competitive Coding, Web-Development, AWS Cloud! <br/>
+✨ I'm passionate about Competitive Coding and Software Development! <br/>
 
 🌱 I’m currently learning Full Stack Development : MERN  <br />
 
-👯 I’m looking to collaborate on Open Source Projects <br />
+<!-- 👯 I’m looking to collaborate on Open Source Projects <br /> -->
 
 ✨ Always learning! <br />
 
