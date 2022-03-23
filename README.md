@@ -1,4 +1,5 @@
-<h1 align="center">  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankittojha) !! </h1>
+<h1 align="center">Hey Ther 👋, I'm Ankit Ojha</h1>
+<!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankittojha) !!  -->
 
 <h3 align="center">A passionate software developer from India</h3>
 
