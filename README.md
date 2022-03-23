@@ -3,7 +3,6 @@
 
 <h3 align="center">A passionate software developer from India</h3>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=ankittojha.ankittojha)
 [![Github](https://img.shields.io/github/followers/ankittojha?label=Follow&style=social)](https://github.com/ankittojha)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankittojha&label=Profile%20views&color=0e75b6&style=flat" alt="ankittojha" /> </p>
