@@ -4,13 +4,11 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=ankittojha.ankittojha)
-[![Github](https://img.shields.io/github/followers/ankittojha?label=Follow&style=social)](https://github.com/ankittojh)
+![Github](https://img.shields.io/github/followers/ankittojha?label=Follow&style=social)](https://github.com/ankittojh)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankittojha&label=Profile%20views&color=0e75b6&style=flat" alt="ankittojha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankittojha" alt="ankittojha" /></a> </p>
-
-
 
 
 🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
@@ -26,6 +24,7 @@
 😄 Pronouns: He/Him
 
 <br/>
+
 
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
