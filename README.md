@@ -11,6 +11,22 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankittojha" alt="ankittojha" /></a> </p>
 
 
+
+
+🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
+
+✨ I'm passionate about Competitive Coding and Software Development! <br/>
+
+🌱 I’m currently learning Full Stack Development : MERN  <br />
+
+<!-- 👯 I’m looking to collaborate on Open Source Projects <br /> -->
+
+✨ Always learning! <br />
+
+😄 Pronouns: He/Him
+
+<br/>
+
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
@@ -30,20 +46,6 @@
   <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
 </a> -->
 <br> <br>
-
-🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
-
-✨ I'm passionate about Competitive Coding and Software Development! <br/>
-
-🌱 I’m currently learning Full Stack Development : MERN  <br />
-
-<!-- 👯 I’m looking to collaborate on Open Source Projects <br /> -->
-
-✨ Always learning! <br />
-
-😄 Pronouns: He/Him
-
-<br/>
 
 <!-- ## 🚀 Technologies 
 
