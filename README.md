@@ -1,5 +1,7 @@
 #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankittojha) !!
 
+<h3 align="center">A passionate software developer from India</h3>
+
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=ankittojha.ankittojha)
 [![Github](https://img.shields.io/github/followers/ankittojha?label=Follow&style=social)](https://github.com/ankittojh)
 
