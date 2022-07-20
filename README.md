@@ -3,12 +3,13 @@
 
 <h3 align="center">A passionate software developer from India</h3>
 
+<!--
 [![Github](https://img.shields.io/github/followers/ankittojha?label=Follow&style=social)](https://github.com/ankittojha)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankittojha&label=Profile%20views&color=0e75b6&style=flat" alt="ankittojha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankittojha" alt="ankittojha" /></a> </p>
-
+ -->
 
 🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
 
