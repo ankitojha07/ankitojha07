@@ -21,9 +21,7 @@
 
 💡 I am currently focusing on Data Structures and Algorithm in Java and DevOps. A beginner contributor at Open Source. <br/>
 
-🌱 I’m currently learning Full Stack Development : MERN  <br />
-
- 💞️ I’m looking to collaborate on any open source platform. <br />
+💞️ I’m looking to collaborate on any open source platform. <br />
 
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
