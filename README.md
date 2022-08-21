@@ -76,10 +76,6 @@
 	<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankittojha&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>
 </a>
 </p>
-<p><a>
-	
-
-	</a></p>
 </details>
 
 ## Contribution Graph 📊
@@ -95,8 +91,3 @@
 </div>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/ankittojha)   -->
-
-
-
-
-
