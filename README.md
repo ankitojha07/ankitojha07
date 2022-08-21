@@ -75,10 +75,10 @@
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankittojha&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
 </a>
 </p>
-<p>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankittojha"/>
+<p><a>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankittojha&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>
 
-	</p>
+	</a></p>
 </details>
 
 ## Contribution Graph 📊
