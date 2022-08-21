@@ -70,11 +70,15 @@
 	<summary> My GitHub Stats</summary>
 <br>
 <p align="center">
-<a href="https://github.com/Susmita-Dey">
+<a href="https://github.com/ankittojha">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ankittojha&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankittojha&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
 </a>
 </p>
+<p>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankittojha"/>
+
+	</p>
 </details>
 
 ## Contribution Graph 📊
@@ -82,7 +86,6 @@
 <img
      src="https://activity-graph.herokuapp.com/graph?username=ankittojha&theme=chartreuse-dark"
      />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hardikk2002"/>
 ---
 <div align="center">
 
