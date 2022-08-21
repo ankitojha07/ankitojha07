@@ -77,15 +77,21 @@
 </p>
 </details>
 
-## 📈 Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankittojha&show_icons=true&theme=highcontrast" />
-	 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankittojha&theme=highcontrast" />
-	<br/>
-	
-<img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankittojha&theme=dark" />
-<img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=ankittojha&theme=xcode" />	
-</p>
+## Contribution Graph 📊
+
+<img
+     src="https://activity-graph.herokuapp.com/graph?username=ankittojha&theme=chartreuse-dark"
+     />
+
+---
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+<!-- ![GitHub metrics](https://metrics.lecoq.io/ankittojha)   -->
+
 
 
 
