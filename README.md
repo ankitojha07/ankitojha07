@@ -1,14 +1,14 @@
-<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/ankittojha"> Ankit Ojha </a></h1>
+<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/ankittojha"> OZA </a></h1>
 <!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankittojha) !!  -->
 
 <h3 align="center">A passionate software developer from India</h3>
 
 <!--
-[![Github](https://img.shields.io/github/followers/ankittojha?label=Follow&style=social)](https://github.com/ankittojha)
+[![Github](https://img.shields.io/github/followers/techbeast69?label=Follow&style=social)](https://github.com/techbeast69)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankittojha&label=Profile%20views&color=0e75b6&style=flat" alt="ankittojha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=techbeast69&label=Profile%20views&color=0e75b6&style=flat" alt="techbeast69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankittojha" alt="ankittojha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techbeast69" alt="techbeast69" /></a> </p>
  -->
  
  😄 Pronouns: He/Him <br/>
@@ -35,10 +35,10 @@
 <a href="mailto:ankitojha1409@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://twitter.com/ankittojha">
+<a href="https://twitter.com/techbeast69">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
-<a href="https://instagram.com/ankittojha">
+<a href="https://instagram.com/techbeast69">
   <img src="https://img.shields.io/badge/Instagram-EC7063?style=for-the-badge&logo=instagram&logoColor=white"   />
 </a>
 <!-- <a href="https://...medium.com/">
@@ -70,10 +70,10 @@
 	<summary> My GitHub Stats</summary>
 <br>
 <p align="center">
-<a href="https://github.com/ankittojha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ankittojha&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ankittojha&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
-	<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankittojha&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>
+<a href="https://github.com/techbeast69">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=techbeast69&count_private=true&show_icons=true&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=techbeast69&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,c,java" />
+	<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=techbeast69&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>
 </a>
 </p>
 </details>
@@ -81,7 +81,7 @@
 ## Contribution Graph 📊
 
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=ankittojha&theme=chartreuse-dark"
+     src="https://activity-graph.herokuapp.com/graph?username=techbeast69&theme=chartreuse-dark"
      />
 ---
 <div align="center">
@@ -90,4 +90,4 @@
 
 </div>
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/ankittojha)   -->
+<!-- ![GitHub metrics](https://metrics.lecoq.io/techbeast69)   -->
