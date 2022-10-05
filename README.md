@@ -64,6 +64,7 @@
 <!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
   </p>
 <br>
+<hr/>
 
 <!-- ## Stats 📈 -->
 <details>
