@@ -66,10 +66,10 @@
 <br>
 <hr/>
 
-<!-- ## Stats 📈 -->
+<!-- ## Stats 📈 
 <details>
 </details>
-	<summary> </summary>
+<summary> </summary> -->
 <h2>My GitHub Stats</h2>
 <br>
 <p align="center">
