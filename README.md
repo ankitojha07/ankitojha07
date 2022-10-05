@@ -68,7 +68,9 @@
 
 <!-- ## Stats 📈 -->
 <details>
-	<summary> My GitHub Stats</summary>
+</details>
+	<summary> </summary>
+<h2>My GitHub Stats</h2>
 <br>
 <p align="center">
 <a href="https://github.com/techbeast69">
@@ -77,7 +79,7 @@
 	<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=techbeast69&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>
 </a>
 </p>
-</details>
+
 
 ## Contribution Graph 📊
 
