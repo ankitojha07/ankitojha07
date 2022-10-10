@@ -15,7 +15,7 @@
 
 🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
 
-✨ I’m interested in Open Source, Web Development, UI/UX and Programming. <br/>
+✨ I’m interested in Open Source, Data Science and Programming. <br/>
 
 💬 I would love to talk about internship opportunities starting December 2022. </br>
 
