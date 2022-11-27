@@ -4,11 +4,11 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 <!--
-[![Github](https://img.shields.io/github/followers/techbeast69?label=Follow&style=social)](https://github.com/techbeast69)
+[![Github](https://img.shields.io/github/followers/ankitojha07?label=Follow&style=social)](https://github.com/ankitojha07)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techbeast69&label=Profile%20views&color=0e75b6&style=flat" alt="techbeast69" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitojha07&label=Profile%20views&color=0e75b6&style=flat" alt="ankitojha07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techbeast69" alt="techbeast69" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitojha07" alt="ankitojha07" /></a> </p>
  -->
  
  😄 Pronouns: He/Him <br/>
@@ -35,10 +35,10 @@
 <a href="mailto:ankitojha1409@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://twitter.com/techbeast69">
+<a href="https://twitter.com/ankitojha07">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
-<a href="https://instagram.com/techbeast69">
+<a href="https://instagram.com/ankitojha07">
   <img src="https://img.shields.io/badge/Instagram-EC7063?style=for-the-badge&logo=instagram&logoColor=white"   />
 </a>
 <!-- <a href="https://...medium.com/">
@@ -76,17 +76,17 @@
 <p align="center">
 
 
-  <a href="https://github.com/techbeast69">
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=techbeast69&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=techbeast69&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbeast69&layout=compact&langs_count=6"/>
+  <a href="https://github.com/ankitojha07">
+<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&layout=compact&langs_count=6"/>
 </p>
 
 
 ## Contribution Graph 📊
 
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=techbeast69&theme=chartreuse-dark"
+     src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=chartreuse-dark"
      />
 ---
 <div align="center">
@@ -95,4 +95,4 @@
 
 </div>
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/techbeast69)   -->
+<!-- ![GitHub metrics](https://metrics.lecoq.io/ankitojha07)   -->
