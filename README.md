@@ -19,7 +19,7 @@
 
 💬 I would love to talk about internship opportunities starting December 2022. </br>
 
-💡 I am currently focusing on Data Structures and Algorithm in Java and DevOps. A beginner contributor at Open Source. <br/>
+💡 I am currently focusing on Data Structures and Algorithm and Developemnt (Mobile applications and Web Apps). A beginner contributor at Open Source. <br/>
 
 💞️ I’m looking to collaborate on any open source platform. <br />
 
