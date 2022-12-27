@@ -1,7 +1,7 @@
 <h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/ankittojha"> ANKIT OJHA </a></h1>
 <!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankittojha) !!  -->
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer & YouTuber from India</h3>
 
 <!--
 [![Github](https://img.shields.io/github/followers/ankitojha07?label=Follow&style=social)](https://github.com/ankitojha07)
@@ -24,6 +24,8 @@
 💞️ I’m looking to collaborate on any open source platform. <br />
 
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+
+🤯 Check my YouTube Channel here https://youtube.com/@ankitojha_07
 
 <br/>
 <h2>
