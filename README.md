@@ -93,7 +93,7 @@
 ---
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by staring some of the repositories!
 
 </div>
 
