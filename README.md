@@ -19,7 +19,7 @@
 
 💬 I would love to talk about internship opportunities starting December 2022. </br>
 
-💡 I am currently focusing on Linux and Cloud computing. A beginner contributor at Open Source. <br/>
+💡 I am currently focusing on Linux and Computer Networking. A beginner contributor at Open Source. <br/>
 
 💞️ I’m looking to collaborate on any open source platform. <br />
 
