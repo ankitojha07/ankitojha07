@@ -15,13 +15,13 @@
 
 🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
 
-✨ I’m interested in Open Source, Data Science and Programming. <br/>
+✨  I write code in C/C++, Python, Bash, Java, JavaScript etc.. <br/>
 
-💬 I would love to talk about internship opportunities starting December 2022. </br>
+<!-- 💬 I would love to talk about internship opportunities starting December 2022. </br> -->
 
 💡 I am currently focusing on Linux and Computer Networking. A beginner contributor at Open Source. <br/>
 
-💞️ I’m looking to collaborate on any open source platform. <br />
+<!-- 💞️ I’m looking to collaborate on any open source platform. <br /> -->
 
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
@@ -40,7 +40,7 @@
 <a href="https://twitter.com/ankitojha_07">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
-<a href="https://instagram.com/ankittojha">
+<a href="https://instagram.com/ankitojha_07">
   <img src="https://img.shields.io/badge/Instagram-EC7063?style=for-the-badge&logo=instagram&logoColor=white"   />
 </a>
 <!-- <a href="https://...medium.com/">
