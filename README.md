@@ -73,7 +73,6 @@
 <!-- ## Stats 📈 
 <details>
 </details>
-<summary> </summary> -->
 <h2>My GitHub Stats</h2>
 <br>
 <p align="center">
