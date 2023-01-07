@@ -70,7 +70,7 @@
 <br>
 <hr/>
 
-<!-- ## Stats 📈 
+## Stats 📈 
 <details>
 </details>
 <h2>My GitHub Stats</h2>
@@ -90,7 +90,7 @@
 <img
      src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=chartreuse-dark"
      />
----
+
 <div align="center">
 
 # 📊 GitHub Stats:
@@ -104,13 +104,11 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<!---
 ### 😂 Random Dev Meme
 (<img src="https://random-memer.herokuapp.com/" width="512px"/>)
---->
 
 ### Show some ❤️ by staring some of the repositories!
 
 </div>
 
-<!-- ![GitHub metrics](https://metrics.lecoq.io/ankitojha07)   -->
+ ![GitHub metrics](https://metrics.lecoq.io/ankitojha07)
