@@ -93,15 +93,11 @@
 
 <div align="center">
 
-
-
 <!-- # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankitojha07&theme=radical&no-frame=false&no-bg=false&margin-w=4&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) -->
- 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ankittojha?ext=contest)
 
 <!-- ### 😂 Random Dev Meme
 (<img src="https://random-memer.herokuapp.com/" width="512px"/>) -->
