@@ -70,12 +70,12 @@
 <br>
 <hr/>
 
-## Stats 📈 
+<!-- ## Stats 📈 
 <details>
 </details>
 <h2>My GitHub Stats</h2>
 <br>
-<p align="center">
+<p align="center"> -->
 
 
   <a href="https://github.com/ankitojha07">
