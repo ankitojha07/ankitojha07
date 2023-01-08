@@ -106,6 +106,6 @@
 
 </div>
 
-![](https://leetcard.jacoblin.cool/ankitojha07?ext=heatmap)
+![](https://leetcard.jacoblin.cool/ankittojha?ext=heatmap)
 
  ![GitHub metrics](https://metrics.lecoq.io/ankitojha07)
