@@ -70,6 +70,8 @@
 <br>
 <hr/>
 
+![](https://leetcard.jacoblin.cool/ankittojha?ext=heatmap)
+
 <!-- ## Stats 📈 
 <details>
 </details>
@@ -106,6 +108,6 @@
 
 </div>
 
-![](https://leetcard.jacoblin.cool/ankittojha?ext=heatmap)
+
 
  ![GitHub metrics](https://metrics.lecoq.io/ankitojha07)
