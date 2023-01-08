@@ -29,6 +29,8 @@
 🤯 Check my YouTube Channel here https://youtube.com/@codeforcoffee_
 
 <br/>
+
+![](https://leetcard.jacoblin.cool/ankittojha?ext=heatmap)
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
@@ -49,7 +51,7 @@
 </a> -->
 <br> <br>
 
-![](https://leetcard.jacoblin.cool/ankittojha?ext=heatmap)
+
 
 <hr/>
 <h2> 🥞 Tech Stack</h2>
