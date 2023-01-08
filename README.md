@@ -49,6 +49,8 @@
 </a> -->
 <br> <br>
 
+![](https://leetcard.jacoblin.cool/ankittojha?ext=heatmap)
+
 <hr/>
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
@@ -70,7 +72,7 @@
 <br>
 <hr/>
 
-![](https://leetcard.jacoblin.cool/ankittojha?ext=heatmap)
+
 
 <!-- ## Stats 📈 
 <details>
