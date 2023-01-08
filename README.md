@@ -85,11 +85,11 @@
 </p>
 
 
-## Contribution Graph 📊
+<!-- ## Contribution Graph 📊 -->
 
-<img
+<!-- <img
      src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=chartreuse-dark"
-     />
+     /> -->
 
 <div align="center">
 
