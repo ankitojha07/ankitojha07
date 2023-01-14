@@ -91,15 +91,16 @@
 <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>  
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&layout=compact&langs_count=6"/>
+ ![](https://github-profile-trophy.vercel.app/?username=ankitojha07&theme=radical&no-frame=false&no-bg=false&margin-w=4&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b)
 </p>
 
 
-## Contribution Graph 📊 -->
+<!-- ## Contribution Graph 📊 -->
 
 <img
      src="https://activity-graph.herokuapp.com/graph?username=ankitojha07&theme=chartreuse-dark"
      /> 
-<div align="center">
+<div align="center"> -->
 
  <!-- 
 <!-- # 🏆 GitHub Trophies
