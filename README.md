@@ -8,14 +8,14 @@
 
 
 
-<img align="right" alt="codeforcoffee" src="https://drive.google.com/file/d/1igrb7utJ5f1onYUClBXgDDSVU6uhhD4t/view" width=400 />
-
-😄 Pronouns: He/Him <br/>
-🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
-✨  I write code in C/C++, Python, Bash, Java, JavaScript etc.. <br/>
-💡 I am currently focusing on Linux and Computer Networking. A beginner contributor at Open Source. <br/>
-📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
-🤯 Check my YouTube Channel here https://youtube.com/@codeforcoffeee
+<img align="right" alt="codeforcoffee" src="https://drive.google.com/file/d/1igrb7utJ5f1onYUClBXgDDSVU6uhhD4t/" width=400 />
+## ⚡ About Me
+- 😄 Pronouns: He/Him <br/>
+- 🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
+- ✨  I write code in C/C++, Python, Bash, Java, JavaScript etc.. <br/>
+- 💡 I am currently focusing on Linux and Computer Networking. A beginner contributor at Open Source. <br/>
+- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+- 🤯 Check my YouTube Channel here https://youtube.com/@codeforcoffeee
 
 <br/>
 
