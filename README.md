@@ -88,9 +88,9 @@
 
 
   <a href="https://github.com/ankitojha07">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&layout=compact&langs_count=6"/>
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b"/>  
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&layout=compact&langs_count=6"/>
 </p>
 
 
