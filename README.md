@@ -1,16 +1,14 @@
 
 <h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/ankitojha07"> ANKIT OJHA </a></h1>
-<!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankitojha_07) !!  -->
+ #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankitojha_07) !!
 
 <h3 align="center">A Techie & YouTuber from India</h3>
 
-<!--
 [![Github](https://img.shields.io/github/followers/ankitojha07?label=Follow&style=social)](https://github.com/ankitojha07)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitojha07&label=Profile%20views&color=0e75b6&style=flat" alt="ankitojha07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitojha07" alt="ankitojha07" /></a> </p>
- -->
  
  😄 Pronouns: He/Him <br/>
 
@@ -49,9 +47,6 @@
 <a href="https://instagram.com/codeforcoffeee">
   <img src="https://img.shields.io/badge/Instagram-EC7063?style=for-the-badge&logo=instagram&logoColor=white"   />
 </a>
-<!-- <a href="https://...medium.com/">
-  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
-</a> -->
 <br> <br>
 
 
@@ -95,12 +90,9 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&align=center)
-<br>
- <hr/>
- <br>
+
 ### Show some ❤️ by staring some of the repositories!
 </div>
 
 
 
-<!--  ![GitHub metrics](https://metrics.lecoq.io/ankitojha07) -->
