@@ -6,12 +6,12 @@
 <hr>
 </br>
 
-## ⚡ About Me
+## 😄 About Me
 
 - Pronouns: He/Him 
 - I’m currently pursuing my Bachelors in Information Technology and have a strong interest in **Coding**💙
 - I am currently focusing on **Linux and Computer Networking**. A beginner contributor at **Open Source**. 
--  am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+- I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 - Check my **YouTube Channel**  https://youtube.com/@codeforcoffeee
 
 <br/>
