@@ -88,17 +88,17 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&layout=compact&langs_count=6"/>
 </p>
-<p align="center">
 
  # 🏆 GitHub Trophies
  
-![](https://github-profile-trophy.vercel.app/?username=ankitojha07&theme=radical&no-frame=false&no-bg=false&margin-w=4&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b)
+![](https://github-profile-trophy.vercel.app/?username=ankitojha07&theme=radical&no-frame=false&no-bg=false&margin-w=4&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b&align=center)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko) -->
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko&align=center)
+<br>
+ <hr/>
+ <br>
 ### Show some ❤️ by staring some of the repositories!
-
 </div>
 
 
