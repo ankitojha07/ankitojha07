@@ -1,5 +1,4 @@
 
-<h1 align="center">Hey There 👋, I'm <a href="https://www.linkedin.com/in/ankitojha07"> ANKIT OJHA </a></h1>
  #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Ankit Ojha](https://www.linkedin.com/in/ankitojha_07) !!
 
 <h3 align="center">A Techie & YouTuber from India</h3>
