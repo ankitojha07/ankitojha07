@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm ANKIT OJHA</h1>
-<h1 align="center" style="color: darkgreen;">(th3h00d)</h1>
+<h1 align="center" style="color: darkgreen;">(cfc007)</h1>
 <h3 align="center">A passionate Programmer and Youtuber</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitojha07&label=Profile%20views&color=0e75b6&style=flat" alt="ankitojha07" /> </p>
 <hr>
@@ -13,9 +13,7 @@
 😄 Pronouns: He/Him <br/>
 🎓 I’m currently pursuing my Bachelors in Information Technology and have a strong interest in Coding💙 <br />
 ✨  I write code in C/C++, Python, Bash, Java, JavaScript etc.. <br/>
-<!-- 💬 I would love to talk about internship opportunities starting December 2022. </br> -->
 💡 I am currently focusing on Linux and Computer Networking. A beginner contributor at Open Source. <br/>
-<!-- 💞️ I’m looking to collaborate on any open source platform. <br /> -->
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 🤯 Check my YouTube Channel here https://youtube.com/@codeforcoffeee
 
