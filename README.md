@@ -46,6 +46,9 @@
 <a href="https://instagram.com/ankitojha_07">
   <img src="https://img.shields.io/badge/Instagram-EC7063?style=for-the-badge&logo=instagram&logoColor=white"   />
 </a>
+<a href="https://instagram.com/codeforcoffeee">
+  <img src="https://img.shields.io/badge/Instagram-EC7063?style=for-the-badge&logo=instagram&logoColor=white"   />
+</a>
 <!-- <a href="https://...medium.com/">
   <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
 </a> -->
@@ -114,4 +117,4 @@
 
 
 
- ![GitHub metrics](https://metrics.lecoq.io/ankitojha07)
+<!--  ![GitHub metrics](https://metrics.lecoq.io/ankitojha07) -->
