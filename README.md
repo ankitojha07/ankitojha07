@@ -26,7 +26,7 @@
 
 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
-🤯 Check my YouTube Channel here https://youtube.com/@codeforcoffee_
+🤯 Check my YouTube Channel here https://youtube.com/@codeforcoffeee
 
 <br/>
 
