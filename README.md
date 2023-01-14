@@ -26,7 +26,7 @@ Talk to me about
 ## ⭐️ Hello World!! 
 - 💬 Ask me about anything and everything !! 
 - 👨🏻‍💻 View my **Website** here => <a href="https://ankitojha.netlify.app/">ankitojha.netlify.app</a>
-- 💬 Connect with me on <a href="https://www.linkedin.com/in/ankitojha_07/">Linkedin</a>
+- 💬 Connect with me on <a href="https://www.linkedin.com/in/ankitojha07/">Linkedin</a>
 - ✍ View my **articles** on <a href="https://ankitojha.hashnode.dev/">Hashnode</a>
 - 📫 **Reach** me here => ankitojha1409@gmail.com
 
