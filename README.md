@@ -7,7 +7,6 @@
 </br>
 
 ## 😄 About Me
-
 - Pronouns: He/Him 
 - I’m currently pursuing my Bachelors in Information Technology and have a strong interest in **Coding**💙
 - I am currently focusing on **Linux and Computer Networking**. A beginner contributor at **Open Source**. 
