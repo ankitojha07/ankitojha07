@@ -18,8 +18,8 @@
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **React.js | Next.js**
-- Functional programming with **python**
-- **Linux- GIT - NETWORKING**
+- Functional programming with **Python | Java | C++**
+- Other tools & technology **Linux- GIT - NETWORKING**
 - Solving Data structure and algorithm questions in **Python & C++**
 
 ## ⭐️ Hello World!! 
