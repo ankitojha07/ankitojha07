@@ -9,7 +9,7 @@
 ## 😄 About Me
 - Pronouns: He/Him 
 - I’m currently pursuing my Bachelors in Information Technology and have a strong interest in **Coding**💙
-- I am currently focusing on **Linux and Computer Networking**. A beginner contributor at **Open Source**. 
+- I am currently focusing on **DevOps**. A beginner contributor at **Open Source**. 
 - I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 - Check my **YouTube Channel**  https://youtube.com/@codeforcoffeee
 
@@ -17,17 +17,17 @@
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **React.js**
+- Front-end development using **React.js | Next.js**
 - Functional programming with **python**
 - **Linux- GIT - NETWORKING**
-- Solving Data structure and algorithm questions in **Python or C++**
+- Solving Data structure and algorithm questions in **Python & C++**
 
 ## ⭐️ Hello World!! 
 - 💬 Ask me about anything and everything !! 
-- 👨🏻‍💻 View my **Website** here => <a href="https://ankitojha.netlify.app/">ankitojha.netlify.app</a>
+- 👨🏻‍💻 View my **Website** here <a href="https://ankitojha.netlify.app/">ankitojha.netlify.app</a>
 - 💬 Connect with me on <a href="https://www.linkedin.com/in/ankitojha07/">Linkedin</a>
 - ✍ View my **articles** on <a href="https://ankitojha.hashnode.dev/">Hashnode</a>
-- 📫 **Reach** me here => ankitojha1409@gmail.com
+- 📫 **Reach** me here ankitojha1409@gmail.com
 
 <hr>
 
