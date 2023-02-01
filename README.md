@@ -20,7 +20,7 @@ Talk to me about
 - Front-end development using **React.js**
 - Functional programming with **python**
 - **Linux- GIT - NETWORKING**
-- Solving Data structure and algorithm questions in **C++/Java**
+- Solving Data structure and algorithm questions in **Python or C++**
 
 ## ⭐️ Hello World!! 
 - 💬 Ask me about anything and everything !! 
