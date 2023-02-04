@@ -1,10 +1,10 @@
-<h1 align="center">Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [Ankit Ojha](https://ankitojha.netlify.app)</h1>
+<h1 align="center">Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm Ankit Ojha</h1>
 <h1 align="center" style="color: darkgreen;">(cfc07)</h1>
 <h3 align="center">A passionate Programmer and Youtuber</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitojha07&label=Profile%20views&color=0e75b6&style=flat" alt="ankitojha07" /> </p>
 <hr>
 
-<!-- ### Hi there 👋, am [Ankit Ojha](https://ankitojha.netlify.app) -->
+<!-- ### Portfolio [Ankit Ojha](https://ankitojha.netlify.app) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-%40ankitojha07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankitojha07/)](https://www.linkedin.com/in/ankitojha07/) 
 [![Twitter Badge](https://img.shields.io/badge/-%40ankitojha_07-yellow?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ankitojha_07)](https://twitter.com/ankitojha_07) 
