@@ -3,6 +3,8 @@
 ### A passionate Programmer and Youtuber
  <img src="https://komarev.com/ghpvc/?username=ankitojha07&label=Profile%20views&color=0e75b6&style=flat" alt="ankitojha07" />
 
+<br/>
+
  ### Portfolio [Ankit Ojha](https://ankitojha.netlify.app)
 
 [![Linkedin Badge](https://img.shields.io/badge/-%40ankitojha07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankitojha07/)](https://www.linkedin.com/in/ankitojha07/) 
