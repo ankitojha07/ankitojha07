@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-%40ankitojha07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankitojha07/)](https://www.linkedin.com/in/ankitojha07/) 
 [![Twitter Badge](https://img.shields.io/badge/-%40ankitojha_07-yellow?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ankitojha_07)](https://twitter.com/ankitojha_07) 
 [![Instagram Badge](https://img.shields.io/badge/-%40ankitojha_07-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ankitojha_07/)](https://www.instagram.com/ankitojha_07/) 
-[![Youtube Badge](https://img.shields.io/badge/-%40Ankit-Ojha-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://youtube.com/@codeforcoffeee)](https://https://youtube.com/@codeforcoffeee) 
+[![Youtube Badge](https://img.shields.io/badge/-%40AnkitOjha-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://youtube.com/@codeforcoffeee)](https://https://youtube.com/@codeforcoffeee) 
 
 ## I am a Student and a Front-End Developer, that builds web application
 - 🔭 I’m currently working on a React.JS projects!
