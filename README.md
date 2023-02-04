@@ -5,9 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-%40boanerges-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ankitojha_07/)](https://www.instagram.com/ankitojha_07/) 
 [![Youtube Badge](https://img.shields.io/badge/-%40boanerges-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://youtube.com/@codeforcoffeee)](https://https://youtube.com/@codeforcoffeee) 
 
-## I am a Student and a Full Stack Developer, that builds scalable application
+## I am a Student and a Front-End Developer, that builds web application
 - 🔭 I’m currently working on a React.JS projects!
-- 🌱 I’m currently learning everything WebRTC
+- 🌱 I’m currently learning anything to get a Job :)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies and play cricket
