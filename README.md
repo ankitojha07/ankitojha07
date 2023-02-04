@@ -12,7 +12,7 @@
 
 ## I am a Student and a Front-End Developer, that builds web application
 - 🔭 I’m currently working on a React.JS projects!
-- 🌱 I’m currently learning anything to get a Job :)
+- 🌱 I’m currently learning anything to get some space in tech :)
 - 👯 I’m looking to collaborate with other content creators [codeforcoffee](https://youtube.com/@codeforcoffeee)
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies and play cricket
