@@ -1,20 +1,20 @@
-<h1 align="center">Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm ANKIT OJHA</h1>
+<h1 align="center">Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [ANKIT OJHA](https://ankitojha.netlify.app)</h1>
 <h1 align="center" style="color: darkgreen;">(cfc07)</h1>
 <h3 align="center">A passionate Programmer and Youtuber</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitojha07&label=Profile%20views&color=0e75b6&style=flat" alt="ankitojha07" /> </p>
 <hr>
 
-### Hi there 👋, am [Ankit Ojha](https://ankitojha.netlify.app)
+<!-- ### Hi there 👋, am [Ankit Ojha](https://ankitojha.netlify.app) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-%40ankitojha07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankitojha07/)](https://www.linkedin.com/in/ankitojha07/) 
 [![Twitter Badge](https://img.shields.io/badge/-%40ankitojha_07-yellow?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ankitojha_07)](https://twitter.com/ankitojha_07) 
 [![Instagram Badge](https://img.shields.io/badge/-%40ankitojha_07-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ankitojha_07/)](https://www.instagram.com/ankitojha_07/) 
-[![Youtube Badge](https://img.shields.io/badge/-%40AnkitOjha-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://youtube.com/@codeforcoffeee)](https://youtube.com/@codeforcoffeee) 
+[![Youtube Badge](https://img.shields.io/badge/-%40codeforcoffee-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://youtube.com/@codeforcoffeee)](https://youtube.com/@codeforcoffeee) 
 
 ## I am a Student and a Front-End Developer, that builds web application
 - 🔭 I’m currently working on a React.JS projects!
 - 🌱 I’m currently learning anything to get a Job :)
-- 👯 I’m looking to collaborate with other content creators (https://youtube.com/@codeforcoffeee)
+- 👯 I’m looking to collaborate with other content creators [codeforcoffee](https://youtube.com/@codeforcoffeee)
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies and play cricket
 
