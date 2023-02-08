@@ -1,4 +1,4 @@
-## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [Ankit Ojha](https://ankitojha.netlify.app) (cfc07)
+## Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [Ankit Ojha](https://ankitojha.netlify.app) [cfc07]
 ### A passionate Programmer and Youtuber
 <img src="https://komarev.com/ghpvc/?username=ankitojha07&label=Profile%20views&color=0e75b6&style=flat" alt="ankitojha07" />
 
@@ -9,12 +9,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-%40ankitojha_07-yellowgreen?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ankitojha_07/)](https://www.instagram.com/ankitojha_07/) 
 [![Youtube Badge](https://img.shields.io/badge/-%40codeforcoffee-orange?style=flat-square&logo=xda-developers&logoColor=white&link=https://youtube.com/@codeforcoffeee)](https://youtube.com/@codeforcoffeee) 
 
-## I am a Student and a Front-End Developer, that builds web application
-- 🔭 I’m currently working on a React.JS projects!
+## I am a Student and just a student.....
 - 🌱 I’m currently learning anything to get some space in tech :)
-- 👯 I’m looking to collaborate with other content creators [codeforcoffee](https://youtube.com/@codeforcoffeee)
+- - 🔭 I’m currently working on a React.JS projects!
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch movies and play cricket
+- ⚡ Fun fact: <I just want to write more code, nothing is funnier to me />
 
 ### Connect with me:
 
