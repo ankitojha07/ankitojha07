@@ -53,13 +53,13 @@
 ---
 
 <a href="https://github.com/ankitojha07">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&include_all_commits=true&count_private=true&show_icons=true&theme=dark&line_height=27" alt="Ankit's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&include_all_commits=true&count_private=true&show_icons=true&theme=default&line_height=27" alt="Ankit's github stats"/>
 </a>
 <a href="https://github.com/ankitojha07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&theme=dark&layout=compact&langs_count=10&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&theme=default&layout=compact&langs_count=10&hide_langs_below=1" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ankitojha07&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ankitojha07&theme=default)](https://git.io/streak-stats)
 
 
 
