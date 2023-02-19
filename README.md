@@ -59,7 +59,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitojha07&theme=default&layout=compact&langs_count=10&hide_langs_below=1" />
 </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ankitojha07&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak align="center"](https://streak-stats.demolab.com/?user=ankitojha07&theme=default)](https://git.io/streak-stats)
 
 
 
