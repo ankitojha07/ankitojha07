@@ -11,7 +11,7 @@
 
 ## I am a Student and just a student.....
 - 🌱 I’m currently learning anything to get some space in tech :)
-- - 🔭 I’m currently working on a React.JS projects!
+- 🔭 I’m currently working on a React.JS projects!
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: <I just want to write more code, nothing is funnier to me />
 
