@@ -1,5 +1,5 @@
 # Hey! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width=100> I'm [Ankit Ojha](https://ankitojha.netlify.app)
-### A passionate Programmer[Web Developer] and Youtuber
+### A passionate Programmer and Youtuber
 <img src="https://komarev.com/ghpvc/?username=ankitojha07&label=Profile%20views&color=0e75b6&style=flat" alt="ankitojha07" />
 
 ### Portfolio [Ankit Ojha](https://ankitojha.netlify.app)
@@ -11,9 +11,9 @@
 
 ## I am a Student and just a student.....
 - 🌱 I’m currently learning anything to get some space in tech :)
-- 🔭 I’m currently working on a React.JS projects!
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: <I just want to write more code, nothing is funnier to me />
+- 🔭 I’m currently working on a ChatBot Development!
+- 🥅 2023 Goals: Learn new technologies
+- ⚡ <I just want to write more code />
 
 ### Connect with me:
 
