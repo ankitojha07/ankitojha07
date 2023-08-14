@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning anything to get some space in tech :)
 - 🔭 I’m currently working on a ChatBot Development!
 - 🥅 2023 Goals: Learn new technologies
-- ⚡ <I just want to write more code />
+- ⚡ I just want to write more code
 
 ### Connect with me:
 
