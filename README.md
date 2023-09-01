@@ -12,7 +12,7 @@
 ## I am a Student and just a student.....
 - 🌱 I’m currently learning anything to get some space in tech :)
 - 🔭 I’m currently working on a ChatBot Development!
-- 🥅 2023 Goals: Starting with Open source
+- 🥅 2023 Goals: I want to learn new technologies and contribute to open source
 - ⚡ I just want to write more code
 
 ### Connect with me:
@@ -21,9 +21,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ankitojha-ai/)
 
 <br/>
-
-
----
 
 <a href="https://github.com/ankitojha07">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitojha07&include_all_commits=true&count_private=true&show_icons=true&theme=default&line_height=27" alt="Ankit's github stats"/>
