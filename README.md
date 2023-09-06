@@ -12,7 +12,7 @@
 ## I am a Student and just a student.....
 - 🌱 I’m currently learning anything to get some space in tech :)
 - 🔭 I’m currently working on a ChatBot Development!
-- 🥅 2023 Goals: I want to learn new technologies and contribute to open source
+- 🥅 2023 Goals: Building a community of like minded people !!
 - ⚡ I just want to write more code
 
 ### Connect with me:
