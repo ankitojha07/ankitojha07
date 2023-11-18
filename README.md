@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm Ankit Ojha!</h1>
-<h3 align="center">Developer | Founding SDE at <a href="https://www.linkedin.com/company/tasklabs/">TaskLabs</a> | Creator of <a href="https://www.youtube.com/@codewithcoffee_">CodeforCoffee</a></h3>
+<h3 align="center">Developer | Working on <a href="[https://www.twitter.com/codeforcoffee/](https://twitter.com/codewithcoffee_)">TaskLabs</a> | Creator of <a href="https://www.youtube.com/@codewithcoffee_">CodeforCoffee</a></h3>
 
 ---
 
