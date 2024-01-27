@@ -58,6 +58,9 @@
 </p>
 
 ---
+![Leetcode Stats](https://leetcard.jacoblin.cool/ankittojha)
+
+---
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankitojha07&theme=radical&no-frame=false&no-bg=false&margin-w=4">
