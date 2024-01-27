@@ -50,9 +50,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
-<p align="center">
-![Leetcode Stats](https://leetcard.jacoblin.cool/ankittojha)
-  </p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/ankittojha&align=center)
 ---
 
 <p align="center">
