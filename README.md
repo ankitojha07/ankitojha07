@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m diving deep into **Python & Machine Learning**
+- 🔭 I’m currently working on Backend Development, Javascript and AI
+- 🌱 I’m diving deep into **Web Development and Content Creation**
 - 💌 How to reach me: <a href="mailto:ankitojha1409@gmail.com">ankitojha1409@gmail.com</a>
 
 ---
