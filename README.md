@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on Backend Development, Javascript and AI
-- 🌱 I’m diving deep into **Web Development and Content Creation**
+- 🔭 I’m currently working on Python, Machine Learning, Generative AI & NLP.
+- 🌱 I’m diving deep into **Web Dev and Content Creation**
 - 💌 How to reach me: <a href="mailto:ankitojha1409@gmail.com">ankitojha1409@gmail.com</a>
 
 ---
@@ -20,8 +20,8 @@
 <p align="center">
   <a href="https://instagram.com/ankitojha_07"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://linkedin.com/in/ankitojha-ai"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/ankitojha_07"><img src="https://img.shields.io/badge/Twitter-%23E60023.svg?logo=Twitter&logoColor=white"></a>
-  <a href="https://youtube.com/@codewithcoffee_"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
+  <a href="https://twitter.com/ankitojhacoding"><img src="https://img.shields.io/badge/Twitter-%23E60023.svg?logo=Twitter&logoColor=white"></a>
+  <a href="https://youtube.com/@AnkitOjhaCoding"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 </p>
 
 ---
