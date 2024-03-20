@@ -50,10 +50,6 @@
 ![VSCode](https://img.shields.io/ba\dge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
-![Leetcode Stats](https://leetcard.jacoblin.cool/ankittojha)
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ankitojha07&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitojha07&theme=dark&hide_border=false">
