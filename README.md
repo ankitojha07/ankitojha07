@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m working on JAVASCRIPT & REACT JS.
-- 🌱 I’m diving deep into **Application Development and Content Creation**
-- 🤓 Interested in AI/ML **Generative AI**
+- 🔭 I’m learning DSA.
+- 🌱 I’m diving deep into **Software Engineering**
+- 🤓 Interested in AI/ML **Software Development**
 - 💌 How to reach me: <a href="mailto:ankitojha1409@gmail.com">ankitojha1409@gmail.com</a>
 
 ---
