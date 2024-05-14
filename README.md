@@ -10,12 +10,12 @@
 
 ## Glad to see you here! Feel free to connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ankitojha07)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ankitojha07.github.io/Abhinandan-portfolio/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/l0u51f3r007)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/abhinandan_khurana_007/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Lousifer007#0191)
-[![THM Badge](https://img.shields.io/badge/-TryHackMe-841617?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Lousifer007)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ankitojha-ai)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ankitojha07.github.io/ankitojha-portfolio/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ankitojhacoding)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ankitojha_07/)
+<!-- [![Discord Badge](https://img.shields.io/badge/-Discord-5865f2?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/Lousifer007#0191) -->
+<!-- [![THM Badge](https://img.shields.io/badge/-TryHackMe-841617?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Lousifer007) -->
 
 <br>
 
