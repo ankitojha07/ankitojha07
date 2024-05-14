@@ -6,7 +6,7 @@
   <img alt="Header Image" src="https://raw.githubusercontent.com/ankitojha07/ankitojha07/main/img/top_image.png" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Ankit+Ojha+aka+%ankitojha07%;I+am+a+technocrat+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230EF746&size=30&center=true&width=1000&height=150&lines=Hi+there+%F0%9F%91%8B;I+am+Ankit+Ojha+aka+"ankitojha07"+;I+am+a+technocrat+)](https://git.io/typing-svg)
 
 ## Glad to see you here! Feel free to connect with me:
 
