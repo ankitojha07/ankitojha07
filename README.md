@@ -2,5 +2,5 @@
 
 - Don't ask me my favorite programming language
 - No! I can't fix your laptop
-- I don't go on vacations, trips, or parties... so don't ask me.
+- No vacations
 - and... yes I use ChatGPT
