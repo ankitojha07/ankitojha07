@@ -12,8 +12,8 @@ Hi, I'm Ankit! I'm a developer from India 🇮🇳, living in New Delhi (India).
 - C++ | Java | Python | etc. | etc.
 
 ### Portfolio & Resume 🐼
-[Portfolio](https://ankitojha07.github.io/ankitojha-portfolio/)</br>
-[Digital-Resume](https://ankitojha07.github.io/ankit-ojha-digital-resume)
+Ankit Ojha - [Portfolio](https://ankitojha07.github.io/ankitojha-portfolio/)</br>
+Resume - [Digital-Resume](https://ankitojha07.github.io/ankit-ojha-digital-resume)
 
 ### Connect with me 💭
 X [twitter] - [Ankitojha_07](https://x.com/ankitojha_07) </br>
