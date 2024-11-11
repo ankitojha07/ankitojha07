@@ -2,6 +2,9 @@
 
 Hi, I'm Ankit! I'm a developer from India 🇮🇳, living in New Delhi (India).
 
+### A quote that inspires me a lot 👇🧠🔒
+> "Your mind has to be even stronger than your body. Once you master your thoughts anything is possible"
+
 ### My Tech Stack 👇
 - Javascript | Typescript
 - MongoDB
