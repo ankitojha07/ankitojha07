@@ -1,6 +1,7 @@
 ## <p align="center" > “If you are persistent, you will get it and if you are consistent, you will keep it.” </p>
 
-# Hi, I'm Ankit! I'm a developer from India 🇮🇳, living in New Delhi (India).
+# Hi, I'm Ankit Ojha! 
+I'm a developer from India 🇮🇳, living in New Delhi (India).
 
 ### A quote that inspires me a lot 👇🧠🔒
 > "Your mind has to be even stronger than your body. Once you master your thoughts anything is possible"
