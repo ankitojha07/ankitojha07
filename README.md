@@ -1,8 +1,8 @@
 # Hi 👋, I'm Ankit Ojha! 
 I'm a developer from India 🇮🇳, living in New Delhi (India).
 
-### Quotes that inspires me a lot 👇🧠🔒
-> "Your mind has to be even stronger than your body. Once you master your thoughts anything is possible"
+### Quotes that inspire me a lot 👇🧠🔒
+> "Your mind has to be even stronger than your body. Once you master your thoughts anything is possible" </br>
 > “If you are persistent, you will get it and if you are consistent, you will keep it.”
 
 ### My Tech Stack 👇
