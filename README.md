@@ -1,6 +1,6 @@
 ## <p align="center" > “If you are persistent, you will get it and if you are consistent, you will keep it.” </p>
 
-# Hi, I'm Ankit Ojha! 
+# Hi 👋, I'm Ankit Ojha! 
 I'm a developer from India 🇮🇳, living in New Delhi (India).
 
 ### A quote that inspires me a lot 👇🧠🔒
