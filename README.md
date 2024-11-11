@@ -1,6 +1,6 @@
 ## <p align="center" > “If you are persistent, you will get it and if you are consistent, you will keep it.” </p>
 
-Hi, I'm Ankit! I'm a developer from India 🇮🇳, living in New Delhi (India).
+# Hi, I'm Ankit! I'm a developer from India 🇮🇳, living in New Delhi (India).
 
 ### A quote that inspires me a lot 👇🧠🔒
 > "Your mind has to be even stronger than your body. Once you master your thoughts anything is possible"
@@ -11,8 +11,9 @@ Hi, I'm Ankit! I'm a developer from India 🇮🇳, living in New Delhi (India).
 - React JS | Next JS
 - Node JS
 - Express JS
-- and... yes I use ChatGPT
+- Springboot (beginner... can build a basic app 😊)
 - C++ | Java | Python | etc. | etc.
+- and... yes I use ChatGPT
 
 ### Portfolio & Resume 🐼
 Ankit Ojha - [Portfolio](https://ankitojha07.github.io/ankitojha-portfolio/)</br>
