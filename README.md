@@ -16,7 +16,7 @@ I'm a developer from India 🇮🇳, living in New Delhi (India).
 - and... yes I use ChatGPT
 
 ### Portfolio & Resume 🐼
-Ankit Ojha - [Portfolio](https://ankitojha07.github.io/ankitojha-portfolio/)</br>
+Ankit Ojha - [Portfolio](https://ankitojha07.github.io/ankitojha/)</br>
 Resume - [Digital-Resume](https://ankitojha07.github.io/ankit-ojha-digital-resume)
 
 ### Connect with me 💭
