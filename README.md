@@ -1,8 +1,7 @@
 # Hi 👋, I'm Ankit Ojha! 
 I'm a developer from India 🇮🇳, living in New Delhi (India).
 
-### "Your mind has to be even stronger than your body. Once you master your thoughts anything is possible" 👇🧠🔒 </br>
-> “If you are persistent, you will get it; if you are consistent, you will keep it.”
+### "Your mind has to be even stronger than your body. Once you master your thoughts anything is possible" 👇🧠🔒
 
 ### My Tech Stack 👇
 - Javascript | Typescript
