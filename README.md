@@ -1,8 +1,6 @@
 # Hi 👋, I'm Ankit Ojha! 
 I'm a developer from India 🇮🇳, living in New Delhi (India).
 
-### "Your mind has to be even stronger than your body. Once you master your thoughts anything is possible" 👇🧠🔒
-
 ### My Tech Stack 👇
 - Javascript | Typescript
 - MongoDB
