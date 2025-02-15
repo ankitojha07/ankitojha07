@@ -12,8 +12,8 @@ I'm a developer from India 🇮🇳, living in New Delhi (India).
 - and... yes I use ChatGPT, Deepseek, Gemini
 
 ### Portfolio & Resume 🐼
-Portfolio - [Ankit Ojha](https://ankitojha.vercel.app)
-Resume - [Digital-Resume](https://ankitojha07.github.io/ankit-ojha-digital-resume)<br>
+Portfolio - [Ankit Ojha](https://ankitojha.vercel.app)<br>
+Resume - [Digital-Resume](https://ankitojha07.github.io/ankit-ojha-digital-resume)
 
 ### Connect with me 💭
 X [twitter] - [Ankitojha_07](https://x.com/guylovescoding) </br>
