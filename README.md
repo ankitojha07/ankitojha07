@@ -9,7 +9,7 @@ I'm a developer from India 🇮🇳, living in New Delhi (India).
 - Node JS
 - Express JS
 - Java Springboot (beginner)
-- and... yes I use ChatGPT, Deepseek, Gemini
+- and... yes I use ChatGPT
 
 ### Portfolio & Resume 🐼
 Portfolio - [Ankit Ojha](https://ankitojha.vercel.app)<br>
