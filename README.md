@@ -5,10 +5,9 @@ I'm a developer from India 🇮🇳, living in New Delhi (India).
 - Javascript | Typescript
 - MongoDB
 - React JS | Next JS
-- React Native (Mobile App Development)
+- React Native
 - Node JS
 - Express JS
-- Java Springboot (beginner)
 - and... yes I use ChatGPT
 
 ### Portfolio & Resume 🐼
