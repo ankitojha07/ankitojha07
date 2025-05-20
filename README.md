@@ -1,14 +1,5 @@
 # Hi 👋, I'm Ankit Ojha! 
-I'm a developer from India 🇮🇳, living in New Delhi (India).
-
-### My Tech Stack 👇
-- Javascript | Typescript
-- MongoDB
-- React JS | Next JS
-- React Native
-- Node JS
-- Express JS
-- and... yes I use ChatGPT
+I'm a developer from India 🇮🇳
 
 ### Portfolio & Resume 🐼
 Portfolio - [Ankit Ojha](https://ankitojha.vercel.app)<br>
