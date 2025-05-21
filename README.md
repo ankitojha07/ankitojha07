@@ -1,5 +1,7 @@
 # Hi 👋, I'm Ankit Ojha! 
 I'm a developer from India 🇮🇳
+- Mountains 🏔️
+- Code & Coffee ❤️
 
 ### Portfolio & Resume 🐼
 Portfolio - [Ankit Ojha](https://ankitojha.vercel.app)<br>
